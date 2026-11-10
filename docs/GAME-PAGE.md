@@ -15,7 +15,7 @@ All characters depicted are adults.
 
 ## A short exam game where you earn a certified standard by passing a timing paper and a memory paper.
 
-<p align="center"><a href="https://github.com/NTRanch/standard-issue">GitHub</a> · <a href="https://github.com/NTRanch/standard-issue/blob/main/LICENSE.md">License</a> · <a href="https://ntranch.itch.io">itch.io studio page</a></p>
+<p align="center"><a href="https://github.com/NTRanch/standard-issue">GitHub</a> · <a href="https://github.com/NTRanch/standard-issue/blob/main/LICENSE.md">License</a> · <a href="https://ntranch.itch.io">itch.io studio page</a> · <a href="https://github.com/NTRanch/standard-issue/releases/tag/v1.0.0">Release</a></p>
 
 ![Standard Issue header](../assets/brand/header.png)
 
